@@ -12,3 +12,6 @@ continuing with the edits:
 ```python
 print("Hello, world")
 ```
+- [ ] get acclimated to GitHub
+- [X] run some code in it
+- [ ] profit
