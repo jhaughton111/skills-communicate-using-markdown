@@ -8,3 +8,7 @@ continuing with the edits:
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 [borrowed picture from the given example]
+
+```python
+print("Hello, world")
+```
